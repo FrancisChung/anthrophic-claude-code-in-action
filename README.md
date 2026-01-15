@@ -24,3 +24,6 @@ Basic understanding of version control with Git
 # Who this course is for
 Software developers looking to integrate AI assistance into their coding workflows
 Teams seeking to implement AI-powered GitHub integration for multiple workflows
+
+# Notes
+1. Claude Code failed spectacularly trying to run `npm audit` and `npm audit fix`. Will do some research and try again at a later date
